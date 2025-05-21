@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.bgatas{
+    background-image: url("img/about.jpg");
+    width: 100px;
+    height: 700px;
+}
